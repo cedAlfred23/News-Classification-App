@@ -1,0 +1,29 @@
+class BIcons {
+  static const google = 'assets/svgIcons/google.svg';
+  static const apple = 'assets/svgIcons/arrow.svg';
+  static const image = 'assets/svg_icons/image.svg';
+  static const user = 'assets/svg_icons/user.svg';
+  static const done = 'assets/svg_icons/done.svg';
+  static const profile = 'assets/svg_icons/profile.svg';
+  static const profile_ = 'assets/svg_icons/profile_.svg';
+  static const bell = 'assets/svg_icons/bell.svg';
+  static const emptyWalletAdd = 'assets/svg_icons/empty-wallet-add.svg';
+  static const emptyWallet = 'assets/svg_icons/empty-wallet.svg';
+  static const arrow = 'assets/svg_icons/arrow.svg';
+  static const coin = 'assets/svg_icons/coin.svg';
+  static const slider = 'assets/svg_icons/fi_sliders.svg';
+  static const success = 'assets/svg_icons/success.svg';
+  static const checkCircle = 'assets/svg_icons/check-circle.svg';
+  static const wallet = 'assets/svg_icons/wallet.svg';
+  static const transaction = 'assets/svg_icons/transaction.svg';
+  static const settings = 'assets/svg_icons/settings.svg';
+  static const chart = 'assets/svg_icons/chart.svg';
+  static const logout = 'assets/svg_icons/logout.svg';
+  static const cancel = "assets/svg_icons/card-remove.svg";
+  static const edit = "assets/svg_icons/edit.svg";
+  static const lock = "assets/svg_icons/lock.svg";
+  static const question = "assets/svg_icons/question-mark.svg";
+  static const email = "assets/svg_icons/email.svg";
+  static const id = "assets/svg_icons/id.svg";
+  static const terms = "assets/svg_icons/security.svg";
+}
